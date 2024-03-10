@@ -6,3 +6,6 @@ edit-checking how to edit and commit in github
 *in readme file html can be used
 <br>
 <b>YES</b>
+<br>
+modifying data
+
